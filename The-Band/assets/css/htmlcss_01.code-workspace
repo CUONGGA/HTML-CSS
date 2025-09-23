@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Taskbar_scroll"
+		},
+		{
+			"path": "../../../flexbox"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htmlcss_01",
+		"liveServer.settings.port": 5501
+	}
+}
